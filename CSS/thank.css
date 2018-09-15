@@ -1,0 +1,16 @@
+body{
+  background-color: #143966;
+}
+div{
+  font-family: Bahnschrift;
+  color: white;
+  border-left: 30px;
+  border-right: 30px;
+  border-bottom: 30px;
+  border-top: 1px;
+  border-style: solid;
+  border-color: #1dc0cc;
+  border-radius: 20px;
+  /* border:30px solid #1dc0cc; */
+  text-align: center;
+}

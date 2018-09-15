@@ -1,0 +1,30 @@
+body{
+  background:#59e0f2;
+}
+h1{
+  border: 2px solid black;
+}
+ok{
+  background: #e5f79e;
+}
+h3{
+  color: #d83bf7;
+}
+.colour{
+  color: #d83bf7;
+}
+textarea{
+  border-width: thick;
+  border-color: gray;
+}
+input{
+  border-width: thin;
+  border-color: red;
+}
+.special{
+    background: #e5f79e;
+}
+div{
+  background: blue;
+  border: 2px dotted #e5f79e;
+}

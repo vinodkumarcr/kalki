@@ -1,0 +1,86 @@
+pre{
+  font-family: 'Lobster', cursive;
+  font-stretch: condensed;
+  text-align: center;
+  font-size: 30px
+
+}
+.five{
+  text-align: center;
+  padding-left: 20px;
+  padding-right: 100px;
+  padding-bottom: 350px;
+  background:#006884;
+  color: #006884;
+  border: 2px solid #006884;
+  width: 90px;
+  margin:90px 20px 100px 100px;
+
+}
+
+.one{
+  padding-left: 75px;
+  padding-right: 35px;
+  padding-bottom: 351px;
+  padding-top: 1px;
+  background:#a6cd39;
+  text-align:center;
+  color: #a6cd39;
+  border: 2px solid #a6cd39;
+  width: 400px;
+  margin:10px 59px 100px 0px;
+
+}
+
+.two{
+  padding-left: 100px;
+  padding-right: 15px;
+  padding-bottom: 350px;
+  padding-top:2px;
+  background:#489c8f;
+  color: #489c8f;
+  border: 2px solid #489c8f;
+  width: 400px;
+  margin:10px 59px 10px -40px;
+
+}
+
+.three{
+  padding-left: 95px;
+  padding-right: 20px;
+  padding-bottom: 350px;
+  padding-top: 2px;
+  background:#66ccc9;
+  color: #66ccc9;
+  border: 2px solid #66ccc9;
+  width: 400px;
+  margin:10px 59px 500px -40px;
+
+}
+.four{
+  padding-left: 95px;
+  padding-right: 20px;
+  padding-bottom: 350px;
+  padding-top: 2px;
+  background:#3e7fb0;
+  color: #3e7fb0;
+  border: 2px solid #3e7fb0;
+  width: 400px;
+  margin:10px 59px 10px -40px;
+
+}
+.six{
+  margin: 10px 59px 10px 0px;
+}
+div{
+  margin-bottom: ;
+}
+.seven{
+  font-family: 'Lobster', cursive;
+  font-stretch: condensed;
+  text-align: center;
+  font-size: 30px
+
+
+
+}

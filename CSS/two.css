@@ -1,0 +1,22 @@
+body{
+    background:#6bede6;
+}
+h2{
+  color: red;
+}
+.first{
+  color: #9f1de0;
+}
+.second{
+  color: #9f1de0;
+}
+#id1{
+  color: red;
+}
+h3+ol{
+  color: #ed820;
+  border: 2px dotted red;
+}
+element.link{
+  border: 2px green dotted;
+}

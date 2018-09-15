@@ -1,0 +1,16 @@
+body{
+  background: rgb(0,0,0) ;
+}
+p{
+  color:#2fa312;
+}
+h1{
+  color:blue;
+}
+li{
+  color: green;
+}
+a{
+  background : #5fcbd9;
+  color: white;
+}

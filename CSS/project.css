@@ -1,0 +1,55 @@
+body{
+  background-color: #1dc0cc;
+  backgrond-border: 20px solid #143966;
+}
+div{
+  border-color: #1dc0cc;
+  background:#143966;
+  font-family:Bahnschrift;
+  color: white;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 80px;
+  margin: -10px 40px 0px 40px;
+  border-radius: 20px;
+}
+h3{
+  font-size: 25px;
+}
+h1{
+  font-size: 40px;
+}
+p.one{
+  width:700px;
+  height:650px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom:100px;
+  font-size: 20px;
+}
+
+p.two{
+  width:700px;
+  height:650px;
+  margin-top: -520px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: -400px;
+  font-size: 20px
+}
+span{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -600px;
+}
+#submit{
+  padding: 20px 30px;
+  background: 2px inset orange;
+  font-size: 15px;
+  font-weight: bold;
+  background-color: orange;
+  border-style: inset;
+  border-radius: 15px;
+
+}
